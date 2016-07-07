@@ -1,4 +1,7 @@
-# FIBRA-OPTICA
-Introduccion
-Origen y evolucion 
+## FIBRA-OPTICA
+
 ¿Que es?
+##TIPOS
+#MONOMODO
+skghksdgjhsgk
+##gabo
