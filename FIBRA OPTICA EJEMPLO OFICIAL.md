@@ -35,8 +35,11 @@ económicos que los convencionales de cobre en telefonía, de hecho son material
 ##FABRICACION Y MATERIALES DE  FIBRA OPTICA:
 
 Para convertir la materia prima en fibra óptica, se siguen tres pasos:
+
 1. Fabricación del preformado de vidrio puro.
+
 2. Estirado del preformado.
+
 3. Pruebas y mediciones.
 
 El primer paso en la fabricación de la fibra óptica, es fabricar una varilla de vidrio sólida, conocido como preformado. Químicos altamente puros–principalmente el tetracloruro de Silicio y Tetracloruro de germanio, se convierten en vidrio durante la fabricación del preformado. Estos químicos se usan en proporciones variables para fabricar las regiones del nùcleo en los diferentes tipos de preformados.Los nùcleos de fibras normalmente usan el sílice, con cantidades variables de germanio que es agregado para aumentar el índice refractivo del núcleo.
@@ -44,10 +47,15 @@ El primer paso en la fabricación de la fibra óptica, es fabricar una varilla d
 •	Materiales usados por la fibra:
 
 Existen varios materiales que pueden ser utilizados en la fabricación de la fibra, pero solo algunos de ellos tienen las características especiales requeridas por la fibra.
+
 a)	El material debe permitirnos fabricar fibras, delgadas, flexibles y largas.
+
 b)	El material debe ser transparente a una longitud de onda particular para poder guiar la luz de manera eficiente.
+
 c)	Compatibilidad física de los materiales que tengan pequeñas diferencias de ìndice refractivo para el núcleo y el cladding.
+
 d)	 Finalmente, debe de ser un material que sea abundante y barato
+
 Dos de los materiales que cumplen con estos requísitos son el plástico y el vidrio.
 
 •	Tipos de fibras:
