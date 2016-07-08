@@ -36,30 +36,34 @@ económicos que los convencionales de cobre en telefonía, de hecho son material
 ##¿CUÁLES SON LOS DISPOSITIVOS IMPLÍCITOS EN ESTE PROCESO?
 
 Los bloques principales de un enlace de comunicaciones de fibra óptica son:
-*transmisor.-consiste de una interfase analógica o digital,un conversor de voltaje a corriente,una fuente de luz a fibra.
-*Guia de fibra.- Es un vidrio ultra puro o un cable plástico.
-*Receptor.-El receptor incluye un dispositivo conector detector de fibra a luz, un foto detector,un conversor de corriente a voltaje,
- un amplificador de voltaje y una interfase analógica o digital.
+###transmisor
+consiste de una interfase analógica o digital,un conversor de voltaje a corriente,una fuente de luz a fibra.
+###Guia de fibra
+Es un vidrio ultra puro o un cable plástico.
+###Receptor
+El receptor incluye un dispositivo conector detector de fibra a luz, un foto detector,un conversor de corriente a voltaje, un amplificador de voltaje y una interfase analógica o digital.
 ##COMPONENTES Y TIPOS DE FIBRA ÓPTICA
 ###Componentes de la Fibra Óptica:
-  -El Núcleo: En sílice,cuarzo fundido o plástico,en el cual se propagan la ondas ópticas.
-  -La Funda óptica: Los mismo materiales que el núcleo pero con aditivos que confinan las ondas ópticas en el núcleo.
-  -Revestimiento de protección: Generalmente fabricado en plastico y asegura la protección mecanica de la fibra.
-###Tipos de fibra Óptica:
-  ####Fibra monomodo:
-    Esta fibra ofrece mayor capacidad de transporte de información. Tiene una banda de paso de 100GHz/Km.Los mayores flujos se consiguen
-    con esta fibra,pero tambien es la mas dificil de implantar.
-    Toma el nombre de monomodo porque su modo de propagación,o camino del haz luminoso es único. Su núcleo esta está hecho de un material
-    cuyo indice de refracción es muy diferente al de la cubierta.
-  ####Fibra multimodo de índice Gradiente Gradual:
-    Estas fibras tienen una banda de paso que llega hasta los 500MHz/Km.
-    Su principio se basa en que el índice de refracción en el interior del núcleo no es único y decrece cuando se desplaza del núcleo 
-    hacia la cubierta.Los rayos luminosos se encuentran enfocados hacia el eje de la fibra.
-    Estas fibras permiten reducir la dispersión entre los diferentes modos de propagación a través del núcleo de la fibra.
-  ####Fibra Multimodo de índice escalonado:
-    Estas fibras están fabricadas a base de vidrio,con una atenuación de 30 dB/Km, o plástico,con una atenuación de 100dB/Km. Tienen una 
-    banda de paso que llega hasta los 40 MHz/km.
-    Su núcleo está constituid por un material uniforme cuyo índice de refracción es claramente superior al de la cubierta que la rodea.
+  ####El Núcleo
+  En sílice,cuarzo fundido o plástico,en el cual se propagan la ondas ópticas.
+  ####La Funda óptica
+  Los mismo materiales que el núcleo pero con aditivos que confinan las ondas ópticas en el núcleo.
+  ####Revestimiento de protección
+  Generalmente fabricado en plastico y asegura la protección mecanica de la fibra.
+###Tipos de fibra Óptica
+Fibra monomodo
+Esta fibra ofrece mayor capacidad de transporte de información. Tiene una banda de paso de 100GHz/Km.Los mayores flujos se consiguen con esta fibra,pero tambien es la mas dificil de implantar.
+Toma el nombre de monomodo porque su modo de propagación,o camino del haz luminoso es único. Su núcleo esta está hecho de un material
+cuyo indice de refracción es muy diferente al de la cubierta.
+Fibra multimodo de índice Gradiente Gradual:
+Estas fibras tienen una banda de paso que llega hasta los 500MHz/Km.
+Su principio se basa en que el índice de refracción en el interior del núcleo no es único y decrece cuando se desplaza del núcleo 
+hacia la cubierta.Los rayos luminosos se encuentran enfocados hacia el eje de la fibra.
+Estas fibras permiten reducir la dispersión entre los diferentes modos de propagación a través del núcleo de la fibra.
+Fibra Multimodo de índice escalonado:
+Estas fibras están fabricadas a base de vidrio,con una atenuación de 30 dB/Km, o plástico,con una atenuación de 100dB/Km. Tienen una 
+banda de paso que llega hasta los 40 MHz/km.
+Su núcleo está constituid por un material uniforme cuyo índice de refracción es claramente superior al de la cubierta que la rodea.
     
 ##APLICACIONES DE LA FIBRA ÓPTICA
 ###Internet
