@@ -17,5 +17,13 @@ COMPONENTES Y TIPOS DE FIBRA ÓPTICA
     con esta fibra,pero tambien es la mas dificil de implantar.
     Toma el nombre de monomodo porque su modo de propagación,o camino del haz luminoso es único. Su núcleo esta está hecho de un material
     cuyo indice de refracción es muy diferente al de la cubierta.
- 
-   
+  -Fibra multimodo de índice Gradiente Gradual:
+    Estas fibras tienen una banda de paso que llega hasta los 500MHz/Km.
+    Su principio se basa en que el índice de refracción en el interior del núcleo no es único y decrece cuando se desplaza del núcleo 
+    hacia la cubierta.Los rayos luminosos se encuentran enfocados hacia el eje de la fibra.
+    Estas fibras permiten reducir la dispersión entre los diferentes modos de propagación a través del núcleo de la fibra.
+  -Fibra Multimodo de índice escalonado:
+    Estas fibras están fabricadas a base de vidrio,con una atenuación de 30 dB/Km, o plástico,con una atenuación de 100dB/Km. Tienen una 
+    banda de paso que llega hasta los 40 MHz/km.
+    Su núcleo está constituid por un material uniforme cuyo índice de refracción es claramente superior al de la cubierta que la rodea.
+    
