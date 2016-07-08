@@ -31,6 +31,13 @@ económicos que los convencionales de cobre en telefonía, de hecho son material
    Por eso mismo, la fibra óptica es un eficaz medio físico en cuanto a transmisiòn datos de un lugar a otro y a velocidades superiores y cubriendo distancias mayores que otros medios como los populares cables de cobre o ahora los inalambricos.
    En consecuencia, la fibra óptica está conformada por un núcleo transparente de vidrio puro con un revestimiento que le proporciona un menor índice de refracción, lo que significa que las señales de luz se mantengan dentro del núcleo y puedan viajar a grandes distancias sin distorsionarse. Es por esto que hoy en día ya hay cables de fibra óptica que atraviesan mares y océanos.
    Asimismo, existen distintos tipos de fibra óptica dependiendo del uso para el que se le vaya a utilizar. Es posible  encontrar aplicaciones en el campo de las telecomunicaciones y la informática para la transmisión de datos a grandes distancias y con mayor ancho de banda; en la Medicina, como sensores para medir la tensión, la temperatura, la presión, etc.
+   
+##FABRICACION Y MATERIALES DE  FIBRA OPTICA:
+•	Proceso de tres-paso
+Para convertir la materia prima en fibra óptica, se siguen tres pasos:
+1. Fabricación del preformado de vidrio puro.
+2. Estirado del preformado.
+3. Pruebas y mediciones.
 
 
 ##¿CUÁLES SON LOS DISPOSITIVOS IMPLÍCITOS EN ESTE PROCESO?
