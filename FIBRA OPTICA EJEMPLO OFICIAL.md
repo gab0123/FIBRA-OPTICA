@@ -39,6 +39,45 @@ Para convertir la materia prima en fibra óptica, se siguen tres pasos:
 2. Estirado del preformado.
 3. Pruebas y mediciones.
 
+El primer paso en la fabricación de la fibra óptica, es fabricar una varilla de vidrio sólida, conocido como preformado. Químicos altamente puros–principalmente el tetracloruro de Silicio y Tetracloruro de germanio, se convierten en vidrio durante la fabricación del preformado. Estos químicos se usan en proporciones variables para fabricar las regiones del nùcleo en los diferentes tipos de preformados.Los nùcleos de fibras normalmente usan el sílice, con cantidades variables de germanio que es agregado para aumentar el índice refractivo del núcleo.
+
+•	Materiales usados por la fibra:
+
+Existen varios materiales que pueden ser utilizados en la fabricación de la fibra, pero solo algunos de ellos tienen las características especiales requeridas por la fibra.
+a)	El material debe permitirnos fabricar fibras, delgadas, flexibles y largas.
+b)	El material debe ser transparente a una longitud de onda particular para poder guiar la luz de manera eficiente.
+c)	Compatibilidad física de los materiales que tengan pequeñas diferencias de ìndice refractivo para el núcleo y el cladding.
+d)	 Finalmente, debe de ser un material que sea abundante y barato
+Dos de los materiales que cumplen con estos requísitos son el plástico y el vidrio.
+
+•	Tipos de fibras:
+
+a) Fibra de Vidrio:
+La mayoría de los vidrios transparentes opticos con el cual estan fábricadas las fibras estan compuestos por los oxidos de vidrio. El mas popular es la sílica (SiO2). Un vidrio compuesto de silica pura conocido como vidrio de sílice, ó sílice vitrea. El vidrio es fabricado por la fusión o mixtura de óxidos de metal, sulfuros o seleniuros.
+Algunas de sus propiedades buscadas son su resistencia a la deformación por altas temperaturas, buena durabilidad química, y alta transparencia tanto en la región visible como infrarroja que son de interés en los sistemas ópticos.
+Para producir dos materiales diferentes y con pequeñas diferencias de índices de refracción entre el nucleo y la corteza, el flúor u otros óxidos son comunmente agregados al silício.
+b) Fibras de vidrios Halide:
+El segundo tipo de vidrio usado lide. Se ha encontrado que el vidrio de flúoruro tiene perdidas de transmisión extremadamente baja para longitudes de onda que van en el rango de 0.2 a 0.8 μm. Los vidrios de fluoruros pertenecen a la familia general de los vidrios halide que forman el grupo VII de la tabla periódica, y que empiezan con el Fluoruro, cloro, bromo y Yodo. El material en el que los investigadores se han concentrado es el vidrio de metal pesado de fluoruro, que usa ZrF4 (Fluoruro de Zirconio) como su mayor componente. Algunos otros constituyentes necesitan ser adicionados para lograr que el vidrio tenga una moderada resistencia a la cristalización.
+La mezcla de zirconio, bario, lantano, sodio y aluminio, este tipo de vidrio (también conocido como ‘ZBLAN’) es cientos de veces más transparente que el vidrio de sílice, fue descubierto accidentalmente por POULAIN y LUCAS en la Universidad de Rennes en Francia.
+ZBLAN es el material que forma el núcleo de la fibra de vidrio para lograr en el vidrio un índice refractivo bajo, remplazando parcialmente el ZrF4 por el HaF4 se obtiene el cladding de ZHBLAN. Teoricamente, la mínima atenuación de este material esta estimado en 0.001 dB/Km.
+Desafortunadamente, las fibras de vidrio de fluoruro son muy difíciles de producir en la Tierra. Los fundidos tienden a cristalizar antes de que se forme el vidrio. La razón es que la gravedad produce la convección o mezcla en el fundido. En efecto, la gravedad la ‘remueve’, y, en un proceso conocido como dilución de corte, el fundido se vuelve más fluido. En los fundidos que son más fluidos, como esos removidos por la gravedad, los átomos se mueven más rápidamente, por lo que pueden disponerse en arreglos más geométricos más rápidamente. En fundidos más espesos y viscosos, los átomos se mueven más lentamente. Es más difícil que se formen patrones regulares. Es más probable que el fundido forme un vidrio. De aqui que teóricamene  una microgravedad, los fundidos deberían de ser más viscosos de lo que lo son en la Tierra.
+c)  Fibra de Vidrios Chalcogenide (Calcogenuros):
+Además de permitir la creación de amplificadores ópticos, las propiedades no lineales de las fibras de vidrios pueden ser explotadas para otras aplicaciones, tales como la fabricación de switches ópticos y los lásers de fibra. Los vidrios del tipo Chalcogenides pueden ser usados satisfactoriamente en estas aplicaciones debido a que su alta no linealidad . Las fibras de vidrios Chalcogenides, contienen Arsenio, Germanio, Fósforo, Sulfuro, Selenio o Telurio.
+Los vidrios chalcogenides estan basados en los elementos calcogenuros con base S, Se y Te y la adición de otros elementos tales como el Ge, St y Sb que conducen a la formación de vidrios estables. Asimismo se pueden agregar componentes Halides conduciendo a la formación de vidrios Chalcohalides.
+Desde que los vidrios chalcogenides transmiten mayores longitudes de ondas que los vidrios de sílica en el IR y que los vidrios Fluoridos, existe un potencial muy amplio de aplicaciones para estos tipos de vidrios. Estos pueden dividirse en dos grupos, tanto pasivos como activos.
+Las aplicaciones pasivas estan referidas a la conducción de la luz de un punto a otro,sin cambiar la propiedades ópticas, mas que las relacionadas con las perdidas debido al scattering, absorción , y reflexión asociadas con la fibra
+Las aplicaciones activas son aquellas en las cuales la luz inicial al ser propagada a través de la fibra es modificada por un proceso diferente al de las pérdidas producidas por el scatetring, absoción y reflexión. Por ejemplo los laseres, fuentes amplificadoras de luz, fuentes de luz, efectos grattings y los efectos no lineales
+d) Active Glass Fibers:
+Incorporando elementos pertenecientes al grupo de tierras raras (número atómico 57-71) dentro de un vidrio normal nos da como resultado un material con nuevas propiedades ópticas y magnéticas. Estas nuevas propiedades permiten al material desarrollar propiedades de amplificación, atenuación y retardación de fase sobre la luz que lo atraviesa. Dos materiales comunes que se usan en estos casos son el Erbio y el Neodimio.
+e) Fibra Óptica de Plástico:
+Como mecionamos antes, el plástico es algunas veces usado en lugar de la fibra óptica de vidrio. Las fibras de plásticos han sido usados tradicionalmente en espacios de distancias cortas (hasta 100 metros) y donde no se requiere resistencias físicas: Por ejemplo, pueden ser utilizados en aplicaciones médicas y para la fabricación de algunos sensores donde solo se requieren longitudes cortas de fibra. En adición, la flexibilidad mecánica del plástico permite a estas fibras tener núcleos amplios. Este factor permite su uso por lo barato, y hace atractivos estos tipos de sistemas. Los siguientes son algunos ejemplos de los componentes usados en las fibras de plástico:
+• Núcleo polysterene / cladding methyl methacrylate.
+• Núcleo polymethyl methacrylate /cladding copolymer
+Comparando las fibras de plásticos a su contraparte el vidiro, el espectro de transmisión es similar. La POF son mas livianas y bajas en costo. Sin embargo las POF son menos usadas debido a su alta atenuación en comparación a las de vidrio . Otra limitación es que el plastico esta limitado a un determinado rango de temperatura..
+La fibra óptca de Plástico cuya abreviatura es POF, tipicamente usa núcleo de Polimetilmetacrilato PMM de gran pureza con un recubrimiento de polímeros ﬂuorados como cubierta.
+Son de gran diámetro, 96% de su sección esta conformada por el núcleo que permite la transmsión de la luz.
+
+
 
 ##¿CUÁLES SON LOS DISPOSITIVOS IMPLÍCITOS EN ESTE PROCESO?
 
