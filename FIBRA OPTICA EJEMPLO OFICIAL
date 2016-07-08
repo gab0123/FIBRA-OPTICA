@@ -6,3 +6,16 @@ Los bloques principales de un enlace de comunicaciones de fibra óptica son:
 *Guia de fibra.- Es un vidrio ultra puro o un cable plástico.
 *Receptor.-El receptor incluye un dispositivo conector detector de fibra a luz, un foto detector,un conversor de corriente a voltaje,
  un amplificador de voltaje y una interfase analógica o digital.
+COMPONENTES Y TIPOS DE FIBRA ÓPTICA
+*Componentes de la Fibra Óptica:
+  -El Núcleo: En sílice,cuarzo fundido o plástico,en el cual se propagan la ondas ópticas.
+  -La Funda óptica: Los mismo materiales que el núcleo pero con aditivos que confinan las ondas ópticas en el núcleo.
+  -Revestimiento de protección: Generalmente fabricado en plastico y asegura la protección mecanica de la fibra.
+*Tipos de fibra Óptica:
+  -Fibra monomodo:
+    Esta fibra ofrece mayor capacidad de transporte de información. Tiene una banda de paso de 100GHz/Km.Los mayores flujos se consiguen
+    con esta fibra,pero tambien es la mas dificil de implantar.
+    Toma el nombre de monomodo porque su modo de propagación,o camino del haz luminoso es único. Su núcleo esta está hecho de un material
+    cuyo indice de refracción es muy diferente al de la cubierta.
+ 
+   
