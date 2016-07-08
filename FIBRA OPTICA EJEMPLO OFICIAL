@@ -1,1 +1,8 @@
 FIBRA OPTICA
+¿Cuáles son los componentes implícitos en este proceso?
+
+Los bloques principales de un enlace de comunicaciones de fibra óptica son:
+*transmisor.-consiste de una interfase analógica o digital,un conversor de voltaje a corriente,una fuente de luz a fibra.
+*Guia de fibra.- Es un vidrio ultra puro o un cable plástico.
+*Receptor.-El receptor incluye un dispositivo conector detector de fibra a luz, un foto detector,un conversor de corriente a voltaje,
+ un amplificador de voltaje y una interfase analógica o digital.
