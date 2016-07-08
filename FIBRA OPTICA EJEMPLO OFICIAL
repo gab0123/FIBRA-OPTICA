@@ -169,20 +169,24 @@ VII. COMPONENTES Y TIPOS DE FIBRA ÓPTICA
        Su núcleo está constituid por un material uniforme cuyo índice de refracción es claramente superior al de la cubierta que la rodea.
        
 VIII. CARACTERÍSTICAS DE LA FIBRA ÓPTICA
+
 *Características Generales:
+
 -Coberturas más resistentes:
 La cubierta especial es extruida a alta presión directamente sobre el mismo núcleo del cable, resultando en que la superficie interna de la cubierta del cable tenga arista helicoidales que se aseguran con los subcables. La cubierta contiene 25% más material que las cubiertas convencionales.
 Uso Dual (interior y exterior): La resistencia al agua, hongos y emisiones ultra violeta
 Mayor protección en lugares húmedos: En cables de tubo holgado rellenos de gel, el gel dentro de la cubierta se asienta dejando canales que permitan que el agua migre hacia los puntos de terminación.
 Protección Anti-inflamable: Los nuevos avances en protección anti-inflamable hace que disminuya el riesgo que suponen las instalaciones antiguas de Fibra Óptica que contenían cubiertas de material inflamable y relleno de gel que también es inflamable.
 Empaquetado de alta densidad: Con el máximo número de fibras en el menor diámetro posible se consigue una más rápida y más fácil instalación, donde el cable debe enfrentar dobleces agudos y espacios estrechos. 
+
 -Características Técnicas:
 La fibra es un medio de transmisión de información analógica o digital. Las ondas electromagnéticas viajan en el espacio a la velocidad de la luz.
 Básicamente, la fibra óptica está compuesta por una región cilíndrica, por la cual se efectúa la propagación, denominada núcleo y de una zona externa al núcleo y coaxial con él, totalmente necesaria para que se produzca el mecanismo de propagación, y que se denomina envoltura o revestimiento.
 La capacidad de transmisión de información que tiene una fibra óptica depende de tres características fundamentales:
-  a) Del diseño geométrico de la fibra.
+a) Del diseño geométrico de la fibra.
 b) De las propiedades de los materiales empleados en su elaboración. (diseño óptico)
 c) De la anchura espectral de la fuente de luz utilizada. Cuanto mayor sea esta anchura, menor será la capacidad de transmisión de información de esa fibra.
+
 -Características Mecánicas:
 La F.O. como elemento resistente dispuesto en el interior de un cable formado por agregación de varias de ellas, no tiene características adecuadas de tracción que permitan su utilización directa.
 Por otra parte, en la mayoría de los casos las instalaciones se encuentran a la intemperie o en ambientes agresivos que pueden afectar al núcleo.
@@ -196,7 +200,6 @@ Las microcurvaturas y tensiones se determinan por medio de los ensayos de:
 
 IX. VENTAJAS Y DESVENTAJAS DE LA FIBRA ÓPTICA
 
-
 * VENTAJAS
 -La fibra óptica hace posible navegar por Internet a una velocidad de dos millones de bps.
 -Acceso ilimitado y continuo las 24 horas del día, sin congestiones. 
@@ -209,6 +212,7 @@ IX. VENTAJAS Y DESVENTAJAS DE LA FIBRA ÓPTICA
 -El peso del cable de fibras ópticas es muy inferior al de los cables metálicos, capaz de llevar un gran número de señales.
 -La materia prima para fabricarla es abundante en la naturaleza.
 -Compatibilidad con la tecnología digital.
+
 * DESVENTAJAS
 -Sólo pueden suscribirse las personas que viven en las zonas de la ciudad por las cuales ya esté instalada la red de fibra óptica. 
 -El coste es alto en la conexión de fibra óptica, las empresas no  cobran por tiempo de utilización sino por cantidad de información transferida al computador, que se mide en megabytes. 
