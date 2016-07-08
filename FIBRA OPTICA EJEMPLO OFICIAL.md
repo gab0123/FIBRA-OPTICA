@@ -56,19 +56,23 @@ a) Fibra de Vidrio:
 La mayoría de los vidrios transparentes opticos con el cual estan fábricadas las fibras estan compuestos por los oxidos de vidrio. El mas popular es la sílica (SiO2). Un vidrio compuesto de silica pura conocido como vidrio de sílice, ó sílice vitrea. El vidrio es fabricado por la fusión o mixtura de óxidos de metal, sulfuros o seleniuros.
 Algunas de sus propiedades buscadas son su resistencia a la deformación por altas temperaturas, buena durabilidad química, y alta transparencia tanto en la región visible como infrarroja que son de interés en los sistemas ópticos.
 Para producir dos materiales diferentes y con pequeñas diferencias de índices de refracción entre el nucleo y la corteza, el flúor u otros óxidos son comunmente agregados al silício.
+
 b) Fibras de vidrios Halide:
 El segundo tipo de vidrio usado lide. Se ha encontrado que el vidrio de flúoruro tiene perdidas de transmisión extremadamente baja para longitudes de onda que van en el rango de 0.2 a 0.8 μm. Los vidrios de fluoruros pertenecen a la familia general de los vidrios halide que forman el grupo VII de la tabla periódica, y que empiezan con el Fluoruro, cloro, bromo y Yodo. El material en el que los investigadores se han concentrado es el vidrio de metal pesado de fluoruro, que usa ZrF4 (Fluoruro de Zirconio) como su mayor componente. Algunos otros constituyentes necesitan ser adicionados para lograr que el vidrio tenga una moderada resistencia a la cristalización.
 La mezcla de zirconio, bario, lantano, sodio y aluminio, este tipo de vidrio (también conocido como ‘ZBLAN’) es cientos de veces más transparente que el vidrio de sílice, fue descubierto accidentalmente por POULAIN y LUCAS en la Universidad de Rennes en Francia.
 ZBLAN es el material que forma el núcleo de la fibra de vidrio para lograr en el vidrio un índice refractivo bajo, remplazando parcialmente el ZrF4 por el HaF4 se obtiene el cladding de ZHBLAN. Teoricamente, la mínima atenuación de este material esta estimado en 0.001 dB/Km.
 Desafortunadamente, las fibras de vidrio de fluoruro son muy difíciles de producir en la Tierra. Los fundidos tienden a cristalizar antes de que se forme el vidrio. La razón es que la gravedad produce la convección o mezcla en el fundido. En efecto, la gravedad la ‘remueve’, y, en un proceso conocido como dilución de corte, el fundido se vuelve más fluido. En los fundidos que son más fluidos, como esos removidos por la gravedad, los átomos se mueven más rápidamente, por lo que pueden disponerse en arreglos más geométricos más rápidamente. En fundidos más espesos y viscosos, los átomos se mueven más lentamente. Es más difícil que se formen patrones regulares. Es más probable que el fundido forme un vidrio. De aqui que teóricamene  una microgravedad, los fundidos deberían de ser más viscosos de lo que lo son en la Tierra.
+
 c)  Fibra de Vidrios Chalcogenide (Calcogenuros):
 Además de permitir la creación de amplificadores ópticos, las propiedades no lineales de las fibras de vidrios pueden ser explotadas para otras aplicaciones, tales como la fabricación de switches ópticos y los lásers de fibra. Los vidrios del tipo Chalcogenides pueden ser usados satisfactoriamente en estas aplicaciones debido a que su alta no linealidad . Las fibras de vidrios Chalcogenides, contienen Arsenio, Germanio, Fósforo, Sulfuro, Selenio o Telurio.
 Los vidrios chalcogenides estan basados en los elementos calcogenuros con base S, Se y Te y la adición de otros elementos tales como el Ge, St y Sb que conducen a la formación de vidrios estables. Asimismo se pueden agregar componentes Halides conduciendo a la formación de vidrios Chalcohalides.
 Desde que los vidrios chalcogenides transmiten mayores longitudes de ondas que los vidrios de sílica en el IR y que los vidrios Fluoridos, existe un potencial muy amplio de aplicaciones para estos tipos de vidrios. Estos pueden dividirse en dos grupos, tanto pasivos como activos.
 Las aplicaciones pasivas estan referidas a la conducción de la luz de un punto a otro,sin cambiar la propiedades ópticas, mas que las relacionadas con las perdidas debido al scattering, absorción , y reflexión asociadas con la fibra
 Las aplicaciones activas son aquellas en las cuales la luz inicial al ser propagada a través de la fibra es modificada por un proceso diferente al de las pérdidas producidas por el scatetring, absoción y reflexión. Por ejemplo los laseres, fuentes amplificadoras de luz, fuentes de luz, efectos grattings y los efectos no lineales
+
 d) Active Glass Fibers:
 Incorporando elementos pertenecientes al grupo de tierras raras (número atómico 57-71) dentro de un vidrio normal nos da como resultado un material con nuevas propiedades ópticas y magnéticas. Estas nuevas propiedades permiten al material desarrollar propiedades de amplificación, atenuación y retardación de fase sobre la luz que lo atraviesa. Dos materiales comunes que se usan en estos casos son el Erbio y el Neodimio.
+
 e) Fibra Óptica de Plástico:
 Como mecionamos antes, el plástico es algunas veces usado en lugar de la fibra óptica de vidrio. Las fibras de plásticos han sido usados tradicionalmente en espacios de distancias cortas (hasta 100 metros) y donde no se requiere resistencias físicas: Por ejemplo, pueden ser utilizados en aplicaciones médicas y para la fabricación de algunos sensores donde solo se requieren longitudes cortas de fibra. En adición, la flexibilidad mecánica del plástico permite a estas fibras tener núcleos amplios. Este factor permite su uso por lo barato, y hace atractivos estos tipos de sistemas. Los siguientes son algunos ejemplos de los componentes usados en las fibras de plástico:
 • Núcleo polysterene / cladding methyl methacrylate.
@@ -76,6 +80,79 @@ Como mecionamos antes, el plástico es algunas veces usado en lugar de la fibra 
 Comparando las fibras de plásticos a su contraparte el vidiro, el espectro de transmisión es similar. La POF son mas livianas y bajas en costo. Sin embargo las POF son menos usadas debido a su alta atenuación en comparación a las de vidrio . Otra limitación es que el plastico esta limitado a un determinado rango de temperatura..
 La fibra óptca de Plástico cuya abreviatura es POF, tipicamente usa núcleo de Polimetilmetacrilato PMM de gran pureza con un recubrimiento de polímeros ﬂuorados como cubierta.
 Son de gran diámetro, 96% de su sección esta conformada por el núcleo que permite la transmsión de la luz.
+
+•	Proceso de fabricación:
+
+Paso 1 : Fabricación del Preformado: 
+La sección del preformado viene a ser una ampliación a escala de las dimensiones geométricas y del pérfil del índice de refracción del conductor de fibra óptica. Calentando un extremo de la preforma se estira hasta obtener el conductor de fibra final, aplicándose en simultaneo el revestimiento (coating) que hace las veces de cubierta protectora del conductor.
+Tenemos los siguientes métodos conocidos:
+
+1. Método por fusión de vidrio o Método directo
+
+a)  Metodo de la varilla en tubo (rod in tube):
+Este fue uno de los primeros métodos usados, en este proceso y es uno de los mas simple, se introduce una varilla de vidrio de alto índice como núcleo en un tubo que hace de recubrimiento y esta formado por vidrio de con un bajo índice de refracción. Las dimensiones de la varilla y del tubo son tales que prácticamente no queda espacio entre una y otro.
+
+Una varilla de vidrio como núcleo se coloca dentro del tubo de vidrio del cladding. En el extremo de este ensamblado se aumenta la temperatura; y ambos vidrios son ablandados obteniendose una fibra por arrastre. .La varilla y el tubo son normalmente de 1 m. de longitud. La varilla del nucleo tiene típicamente 30 mm de diámetro. El vidrio del nucleo y el vidrio del cladding deben tener temperaturas de ablandamiento similares.
+Este método es relativamente fácil: apenas se necesita comprar la varilla y el tubo. Sin embargo, uno debe tener mucho cuidado para no introducir impurezas entre el núcleo y el cladding .
+La desventaja de este método simple consiste en que después del estirado de la fibra quedan pequeñísimos deterioros e impurezas en la superficie de separación entre ambos vidrios, lo que ocasiona elevadas atenuaciones del orden de los 500 a 1000 dB/Km. , por este método solo se fabrican fibra ópticas multimodos de perfil escalonado.
+Estas fibras no son usadas en la transmisión de imagen e iluminación pero no son utilizadas en telecomunicaciones.
+
+b) Metodo de los dos crisoles (double crucible o compound melting)
+Este método se usa para evitar el inconveniente del metodo de la Varilla en tubo , los vidrios correspondiente al núcleo y al recubrimiento son unidos en estado de fusión y luego se estira la fibra de este material directamente al salir del estado de fusión y no se utiliza una preforma sólida.Los dos vidrios se unen en la base exterior y la fibra se obtiene por arrastre. Pueden producirse Fibras de gran longitud
+Pueden obtenerse fibras de índice escalón y fibras de índice gradual con este método
+ Se le denomina método de los dos crisoles ya que los vidrios usados para el núcleo y el cladding se funden en crisoles separados.
+Este método permite obtener fibras de perfil gradual por difusión o intercambio de iones entre los vidrios del núcleo y del recubrimiento , a esto se le denomina Método Selfoc.
+
+
+-	 Fabricación de la preforma por técnica de deposición de vapor:
+
+La primera empresa que utilizo este método fué la empresa Corning en 1970, logrando disminuir dramáticamente la atenuación.
+La deposición se puede efectuar por diferente formas: Sobre la superficie externa de una varilla de substrato en rotación (Método OVD, outside vapor deposition), sobre la superficie frontal de una varilla de cuarzo (Método VAD, vapor axial deposition) o sobre la superficie interior de un tubo de vidrio de cuarzo en rotación (Método IVD, inside vapor deposition), este último método puede utilizar la energia para la deposicion del vidrio ya sea desde afuera por medio de un quemador detonate de gas (Método MCVD, modified chemical vapor deposition) o desde adentro con una llama de plasma (Método PCVD, plasma activated chemical vapor deposition).
+En todos estos métodos la deposición se produce por la descomposición de compuestos volátiles de alta pureza en un llama de gas detonante. Los Químicos usados son el Oxígeno (O2) y el tetracloruro de Silicio (SiCl4) que reaccionan para obtener sílice (SiO2).
+El sílice puro se dopa con otros químicos tal como el óxido del boro (B2O3), el dióxido de germanio (GeO2) y el pentoxido de fósforo (P2O5) con el objeto de modificar el índice refractivo del vidrio.
+
+a)	Método de Deposición de Vapor externo(OVD):
+La fabricación de la preforma se efectua en dos etapas, en primer lugar se hace rotar con un dispositivo adecuado una varilla de substrato de vidrio de cuarzo AL2O3 o grafito en torno de su eje longitudinal, al tiempo que se calienta en una estrecha zona desde afuera con la llama de un quemador de gas detonante o gas propano.
+Junto con las sustancias dopantes reqeridas por el pérfil de índices de refracción como los metales halogenados (SiCl4, GeCl4, BCl3, PCl3) se le suministra oxígeno (O2) al quemador, en el cual estos compuestos se convierten en los correspondientes óxidos. Estos a su vez se depositan sobre la varilla rotante en forma de finas partículas..
+Al imprimirle un movimiento de vaiven en sentido longitudinal, se obtiene por capas una preforma porosa de vidrio. A cada una de estas capas se le puede dopar en forma diferente, agregando en determinada proporción distinta sustancias dopantes a la sustancia básica del SiO2, lograndose reducir los perfiles graduales, continuamente de la primera capa, el dopado con GeO2 con el cual se forma el núcleo hasta llegar al recubrimiento con una deposición de SiO2 puro. Para un perfil escalonado, se mantiene constante el dopado de cada capa.
+Una vez obtenida la deposición de suficientes capas para el núcleo y el recubrimiento de la fibra; se retira la preforma cilíndrica de la varilla de substrato.
+En la etapa final la preforma se calienta hasta su punto de fusión, con temperaturas entre 1400 y 1600 oC, la preforma se contraera convirtiendose en una varilla de vidrio firme y libre de burbujas, transparente cuyo hueco interior se ha cerrado. Durante el sintetizado de la preforma se lava esta con cloro gaseoso para quitar del vidrio todo vestigio de agua cuya presencia provocaría una elevada atenuación.
+
+
+b)	Método VAD ó Deposición de Vapor axial (AVD)
+
+La deposición de las partículas provenientes de un quemador de gas oxídrico tiene lugar sobre una cara frontal de una varilla rotante de vidrio de cuarzo.
+La preforma porosa resultante se estira en sentido ascendente de tal forma que se mantiene constante la distancia entre el quemador y la preforma que va creciendo en sentido axial. Para fabricar el perfil de índices de refracción del núcleo y del recubrimiento se pueden utilizar varios quemadores simultánemente.
+
+c)	 Deposición de Vapor Químico modificado (MCVD):
+
+Este método se realiza en dos etapas:
+Primero : se hace rotar un tubo de vidrio puro alrededor de su eje longitudinal en un torno u otro dispositivo adecuado al tiempo que se calienta una estrecha zona del mismo desde afuera por medio de un quemador de gas detonante que se desplaza a lo largo del tubo.
+A través del interior del tubo se hace pasar el oxígeno y los compúestos de halogenuros gaseosos (SiCl4, GeCl4, PCl3) requeridos para el respectivo dopado. Por este motivo los compuestos halogenos se descomponen en el interior del tubo y no en la llama del quemador, como ocurre en los métodos OVD y VAD.
+Por esta causa se produce en la cara interior del tubo la deposición de numerosas y delgadas capas en un proceso llamado vitrificación, que se pueden dopar según el perfil del índices de refracción reqerido. El propio tubo constituye la sección externa del vidrio del recubrimiento y las capas que se depositan en su interior conforman la sección interna de la fibra es decir el núcleo.
+Cada capa de vidrio se forma con la siguiente secuencia : a 16000 oC y dentro de la zona de calentamiento se forman particulas finas que se depositan sobre la cara interior del tubo. Al ser dezplazado el quemador en la dirección del flujo, las partículas se funden para formar una delgada y transparente capa del vidrio.
+Una vez completada la deposición de las capas necesarias se pasa a la segunda etapa del método MCVD que consiste en calentar el tubo por secciones longitudinales hasta aproximadamente 2000 oC. De esta manera se produce el colapso del tubo para formar la varilla.
+Ya que los gases que reaccionan en el interior del tubo se mantienen libres de hidrogeno, este método no requiere procesos especiales de secado, ya que el gas utilizado para el calentamiento que en general contiene una proporción de hidrógeno, solo actúa sobre el exterior del tubo, no teniendo influencia sobre el proceso ningún otro factor ambiental.
+ 
+ 
+d)	Deposición de Vapor Químico Modificado reforzado con plasma (PMCVD):
+ 
+En este método las preformas se produce con el mismo procedimiento que en el caso del método MCVD. La diferencia radica en la técnica empleada para la reacción. Por medio de la excitación de un gas con ayuda de microondas, se obtiene un plasma. El gas que se ioniza, es decir se descompone en sus cargas eléctricas. Al reunificarse éstas, se libera calor que se utiliza par fundir materiales de elevado punto de fusión. Así en el proceso del plasma, se disocian los halogenos con ayuda de un plasma de baja presión y luego,con oxigeno, se forman SiO2. Las partículas formadas en este proceso se precipitan directamente a temperaturas del orden de los 1000 C, formando una capa de vidrio.
+Dado que a la llama de plasma se le imprime un rápido movimiento de vaiven a lo largo del tubo, se pueden producir más de 1000 capas delgadas, lo cual permite incrementar la exactitud del perfil de índices de refracción 
+ 
+Paso 2 : Estirado de la Fibra y Devanando en carrete
+
+La punta de la preforma se calienta a aproximadamente 2000°C en un horno. Cuando el vidrio se ablanda, una cuerda delgada de vidrio ablandada cae ayudada por la gravedad y se enfria al caer.
+Cuando la fibra es arrastrado su diámetro es constantemente supervisado
+Una cubierta de plástico se aplica entonces a la fibra, antes de que toque cualquier componente. La capa protege la fibra del polvo y humedad. La fibra se envuelve al final del proceso alrededor de una bobina.
+Durante el proceso del estirado, el diámetro de la fibra es controlado a 125 micras dentro de una tolerancia de 1 micra. El valor real del diámetro es comparado con los 125-micrometros, y las desviaciones se corrigen con cambios en la velocidad de arrastre. Si el diámetro de la fibra aumenta, la velocidad del estirado,se aumenta; si el diámetro de fibra empieza a disminuir, la velocidad se disminuye.
+Una a dos-capa de proteccion se aplica entonces a la fibra–una capa interna suave y una capa exterior dura. Estas capas son tratadas por lámparas ultravioletas. El proceso de estirado es automatizado yno requiere virtualmente de ningún operador
+ 
+Paso 3 : Pruebas y Mediciones
+
+Luego del estirado la fibra pasa a la etapa de prueba y medidas en la cual se verifican todos los parámetros ópticos y geometricos. Existen tres tipos de pruebas : mecánico, óptico, y geometrico.
+Primero: Se prueba la fuerza de tensión de la fibra. Cada bobina de fibra es arrastrado y se enrolla a través de una serie de cabrestantes y sujeta a cargas para asegurar que la fibra muestre una fuerza de tensión mínima de 100,000 lb/pg2 . La fibra se devana en carrete y se corta a longitudes especificas.
+Segundo: La fibra óptica también se prueba para evitar defectos puntuales con un reflectometro óptico, el cual indicara cualquier anomalía a lo largo de la longitud de la fibra.
 
 
 
