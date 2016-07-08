@@ -1,13 +1,13 @@
 #FIBRA OPTICA
 
-##Introduccion
+##INTRODUCCIÓN
 
 El ciberespacio es un mundo lento hasta el desespero. Un usuario puede pasar varios minutos esperando a que se cargue una página
 o varias horas. Esto se debe a que las líneas telefónicas, el medio que utiliza la mayoría de usuarios para conectarse a Internet.
 Pero las líneas telefónicas no son la única vía hacia el ciberespacio. Recientemente un servicio permite conectarse a Internet a 
 través de la fibra óptica.
 
-##Origen y evolucion
+##ORIGEN Y EVOLUCIÓN
 
 en 1959, como derivación de los estudios en física enfocados a la óptica, se descubrió una nueva utilización de la luz, a la que 
 se denominó rayo láser, que fue aplicado a las telecomunicaciones con el fin de que los mensajes se transmitieran a velocidades 
@@ -17,7 +17,7 @@ viajar las ondas electromagnéticas provocadas por la lluvia de fotones originad
 Fue entonces cuando los científicos y técnicos especializados en óptica dirigieron sus esfuerzos a la producción de un ducto 
 o canal, conocido hoy como la fibra óptica. En 1966 surgió la propuesta de utilizar una guía óptica para la comunicación.
 
-##¿que es la fibra optica?
+##¿QUÉ ES LA FIBRA ÓPTICA?
 ![fibra](/imagenes/fibra.png "fibra")
 
 Como se ve en el dibujo, tenemos un material envolvente con índice n y un material interior con índice n'. De forma que se consigue
@@ -25,7 +25,7 @@ guiar la luz por el cable. La Fibra Óptica consiste por tanto, en un cable de e
 económicos que los convencionales de cobre en telefonía, de hecho son materiales ópticos mucho más ligeros
 
 
-##3. Concepto de Fibra Optica:
+##CONCEPTO DE FIBRA OPTICA
    Se denomina fibra optica al filamento o haz de filamentos fabricado con material flexible y transparente, a partir de plàstico o vidrio, que sirve para la transmiciòn de infrmaciòn a grandes distancias mediante señales luminosas. 
    El principio en que se basa la transmisión de luz por la fibra es la reflexión interna total; la luz que viaja por el centro o núcleo de la fibra incide sobre la superficie externa con un ángulo mayor que el ángulo crítico, de forma que toda la luz se refleja sin pérdidas hacia el interior de la fibra. Así, la luz puede transmitirse a larga distancia reflejándose miles de veces. Para evitar pérdidas por dispersión de luz debida a impurezas de la superficie de la fibra, el núcleo de la fibra óptica está recubierto por una capa de vidrio con un índice de refracción mucho menor; las reflexiones se producen en la superficie que separa la fibra de vidrio y el recubrimiento.
    Por eso mismo, la fibra óptica es un eficaz medio físico en cuanto a transmisiòn datos de un lugar a otro y a velocidades superiores y cubriendo distancias mayores que otros medios como los populares cables de cobre o ahora los inalambricos.
@@ -33,7 +33,7 @@ económicos que los convencionales de cobre en telefonía, de hecho son material
    Asimismo, existen distintos tipos de fibra óptica dependiendo del uso para el que se le vaya a utilizar. Es posible  encontrar aplicaciones en el campo de las telecomunicaciones y la informática para la transmisión de datos a grandes distancias y con mayor ancho de banda; en la Medicina, como sensores para medir la tensión, la temperatura, la presión, etc.
 
 
-##¿Cuáles son los componentes implícitos en este proceso?
+##¿CUÁLES SON LOS DISPOSITIVOS IMPLÍCITOS EN ESTE PROCESO?
 
 Los bloques principales de un enlace de comunicaciones de fibra óptica son:
 *transmisor.-consiste de una interfase analógica o digital,un conversor de voltaje a corriente,una fuente de luz a fibra.
@@ -93,7 +93,9 @@ Definitivamente, los pequeños consumidores deberemos de esperar a que la cienci
 ##CONCLUSIONES
 
 1.- La historia de la comunicación a través de la Fibra Óptica revolucionó el mundo de la información, con aplicaciones, en todos los órdenes de la vida moderna, lo que constituyó un adelanto tecnológico altamente efectivo.
+
 2.- El funcionamiento de la Fibra Óptica es un complejo proceso con diversas operaciones interconectadas que logran que la Fibra Óptica funcione como medio de transportación de la señal luminosa, generando todo ello por el transmisor LED’S y láser.
+
 3.- Actualmente se han modernizado mucho las características de la Fibra Óptica, en cuanto a coberturas más resistentes, mayor protección contra la humedad y un empaquetado de alta densidad, lo que constituye un adelanto significativo en el uso de la Fibra Óptica, al servicio del progreso tecnológico en el mundo.
 
 
