@@ -25,7 +25,7 @@ guiar la luz por el cable. La Fibra Óptica consiste por tanto, en un cable de e
 económicos que los convencionales de cobre en telefonía, de hecho son materiales ópticos mucho más ligeros
 
 
-##CONCEPTO DE FIBRA OPTICA
+##CONCEPTO DE FIBRA OPTICA:
    Se denomina fibra optica al filamento o haz de filamentos fabricado con material flexible y transparente, a partir de plàstico o vidrio, que sirve para la transmiciòn de infrmaciòn a grandes distancias mediante señales luminosas. 
    El principio en que se basa la transmisión de luz por la fibra es la reflexión interna total; la luz que viaja por el centro o núcleo de la fibra incide sobre la superficie externa con un ángulo mayor que el ángulo crítico, de forma que toda la luz se refleja sin pérdidas hacia el interior de la fibra. Así, la luz puede transmitirse a larga distancia reflejándose miles de veces. Para evitar pérdidas por dispersión de luz debida a impurezas de la superficie de la fibra, el núcleo de la fibra óptica está recubierto por una capa de vidrio con un índice de refracción mucho menor; las reflexiones se producen en la superficie que separa la fibra de vidrio y el recubrimiento.
    Por eso mismo, la fibra óptica es un eficaz medio físico en cuanto a transmisiòn datos de un lugar a otro y a velocidades superiores y cubriendo distancias mayores que otros medios como los populares cables de cobre o ahora los inalambricos.
@@ -33,7 +33,7 @@ económicos que los convencionales de cobre en telefonía, de hecho son material
    Asimismo, existen distintos tipos de fibra óptica dependiendo del uso para el que se le vaya a utilizar. Es posible  encontrar aplicaciones en el campo de las telecomunicaciones y la informática para la transmisión de datos a grandes distancias y con mayor ancho de banda; en la Medicina, como sensores para medir la tensión, la temperatura, la presión, etc.
    
 ##FABRICACION Y MATERIALES DE  FIBRA OPTICA:
-•	Proceso de tres-paso
+
 Para convertir la materia prima en fibra óptica, se siguen tres pasos:
 1. Fabricación del preformado de vidrio puro.
 2. Estirado del preformado.
@@ -43,13 +43,14 @@ Para convertir la materia prima en fibra óptica, se siguen tres pasos:
 ##¿CUÁLES SON LOS DISPOSITIVOS IMPLÍCITOS EN ESTE PROCESO?
 
 Los bloques principales de un enlace de comunicaciones de fibra óptica son:
-###transmisor
+###Transmisor:
 consiste de una interfase analógica o digital,un conversor de voltaje a corriente,una fuente de luz a fibra.
-###Guia de fibra
+###Guia de fibra:
 Es un vidrio ultra puro o un cable plástico.
-###Receptor
+###Receptor:
 El receptor incluye un dispositivo conector detector de fibra a luz, un foto detector,un conversor de corriente a voltaje, un amplificador de voltaje y una interfase analógica o digital.
-##COMPONENTES Y TIPOS DE FIBRA ÓPTICA
+##COMPONENTES Y TIPOS DE FIBRA ÓPTICA:
+
 ###Componentes de la Fibra Óptica:
   El Núcleo
   En sílice,cuarzo fundido o plástico,en el cual se propagan la ondas ópticas.
@@ -59,6 +60,7 @@ El receptor incluye un dispositivo conector detector de fibra a luz, un foto det
   
   Revestimiento de protección
   Generalmente fabricado en plastico y asegura la protección mecanica de la fibra.
+  
 ###Tipos de fibra Óptica
 
 Fibra monomodo
@@ -78,6 +80,7 @@ banda de paso que llega hasta los 40 MHz/km.
 Su núcleo está constituid por un material uniforme cuyo índice de refracción es claramente superior al de la cubierta que la rodea.
     
 ##APLICACIONES DE LA FIBRA ÓPTICA
+
 ###Internet
 El servicio de conexión a Internet por fibra óptica, derriba la mayor limitación del ciberespacio: su exasperante lentitud. 
 El ciberespacio es un mundo lento. Un usuario puede pasar varios minutos esperando a que se cargue una página o varias horas tratando de bajar un programa de la Red a su PC.
@@ -104,8 +107,10 @@ La calidad de la señal por cable es por mucho más alta que por satélite, porq
 El satélite se adapta a la tecnología digital, si bien las ventajas en este campo no son tan evidentes en el analógico, al requerirse un mayor ancho de banda en aquel y ser éste un factor crítico en el diseño del satélite.
 
 ##RECOMENDACIONES 
+
 La  F.O. solo es recomendable para Empresas y no para pequeños usuarios debido a su elevado coste, no solo el coste de instalación sino también por el de las cuotas, además siempre estas a expensas de que haya una línea de F.O. cerca de tu casa ya que si no es así la instalación no es factible.
 Definitivamente, los pequeños consumidores deberemos de esperar a que la ciencia avance un poco más en este campo y sea accesible para todos, solo entonces podremos beneficiarnos de las ventajas que nos ofrece esta tecnología. 
+
 ##CONCLUSIONES
 
 1.- La historia de la comunicación a través de la Fibra Óptica revolucionó el mundo de la información, con aplicaciones, en todos los órdenes de la vida moderna, lo que constituyó un adelanto tecnológico altamente efectivo.
