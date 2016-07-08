@@ -78,14 +78,14 @@
 -COMPARACIÓN CON OTROS MEDIOS DE COMUNICACIÓN
    *Comparación con los cables coaxiales
 ___________________________________________________________________________________________________________________________________
-|                                                        CARACTERISTICAS DE FIBRA OPTICA / COAXIAL                                 |
-|+Longitud de la Bobina (mts)	                                                2000	         230                                   |
-|+Peso (kgs/km)	                                                               190	        7900                                   |
-|+Diámetro (mm)	                                                                14	          58                                   |
-|+Radio de Curvatura (cms)	                                                    14        	  55                                   |
-|+Distancia entre repetidores (Kms) 	                                          40	         1.5                                   |
-|+Atenuación (dB / km) para un Sistema de 56 Mbps	                            0.40            40                                   |
-|__________________________________________________________________________________________________________________________________|
+                                                        CARACTERISTICAS DE FIBRA OPTICA / COAXIAL                                 
++Longitud de la Bobina (mts)	                                                2000	   -      230                                   
++Peso (kgs/km)	                                                               190	   -     7900                                   
++Diámetro (mm)	                                                                14	   -      58                                   
++Radio de Curvatura (cms)	                                                      14     -  	  55                                   
++Distancia entre repetidores (Kms) 	                                            40	   -      1.5                                   
++Atenuación (dB / km) para un Sistema de 56 Mbps	                           0.40      -      40                                   
+__________________________________________________________________________________________________________________________________
 
    *Comunicaciones por Satélite vs Fibra Óptica 
       Es más económica la F.O. para distancias cortas y altos volúmenes de tráfico, por ejemplo, para una ruta de 2000 ctos., el satélite no es rentable frente a la solución del cable de fibras hasta una longitud de la misma igual a unos 2500 kms.
